@@ -19,6 +19,8 @@ You'll need an [Optimizely.com](http://www.optimizely.com) account  to use it.
 
 == Installation ==
 
+Sign up at [Optimizely.com](http://www.optimizely.com).
+
 1. Upload the Optimizely plugin to your blog
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Enter your Optimizely project code in the plugin's settings page. 
