@@ -1,6 +1,6 @@
 === Optimizely ===
 Contributors: arthuracs, jonslaught, bradtaylorsf
-Tags: optimizely, ab testing, split testing, website optimization
+Tags: optimizely, ab testing, split testing, website optimization, headline testing
 Requires at least: 3.0
 Tested up to: 4.0.1
 Stable tag: 3.2.1
