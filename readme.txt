@@ -22,9 +22,15 @@ Sign up at [Optimizely.com](http://www.optimizely.com).
 
 1. Upload the Optimizely WordPress plugin to your blog
 2. Activate the plugin through the Optimizely menu in WordPress
-3. Enter your Optimizely API token in the plugin's settings page, choose a project to use, then save.
+3. Enter your [Optimizely API token](https://help.optimizely.com/hc/en-us/articles/200904580#api) in the plugin's settings page
+4. Enter your variation code that you want to use for each test. TIP: You must have a unique identifier for each headline in the HTML) 
+5. Choose a project to use, what post types to use headline testing, and how many variations you want to test, then save.
 
 You're ready to start using Optimizely!
+
+== Screenshots ==
+1. Create multiple headlines for each post
+2. View your results and launch winners directly from the dashboard
 
 = 3.2.1 =
 * Fixed bug that caused some variations to not get updated or created after experiment creation
